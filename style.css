@@ -1,0 +1,19 @@
+#main {
+    border: 2px solid black;
+    width: 773px;
+    margin: 0px auto;
+}
+
+.inpt{
+    width: 93%;
+    padding: 25px;
+    font-size: 40px;
+}
+
+.btn{
+    width: 190px;
+    margin: 0px auto;
+    padding: 25px;
+    font-size: 25px;
+    font-weight: bolder;
+}
